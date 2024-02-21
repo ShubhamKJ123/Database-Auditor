@@ -1,0 +1,1 @@
+- No by-default singleton primary key for each table in postgres. Using a combination of foreign keys as a primary key can be tedious.
